@@ -1,13 +1,29 @@
-- 👋 Hi, I’m [@sudharsan-codex](https://github.com/sudharsan-codex)
-- 👀 I’m interested in quantum mechanics, software development, and science fiction.
-- 🌱 I’m currently learning advanced Java programming techniques and exploring the intersection of quantum mechanics and computing.
-- 💞️ I’m looking to collaborate on innovative projects, especially those involving full-stack development and cutting-edge technologies.
-- 📫 How to reach me: You can connect with me via [email](mailto:sudevmosaic@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/sudharsan-sankaran-057523326?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJKr2c1XbRl2fUJ60pfDqaA%3D%3D).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love creating complex patterns in code and find inspiration in the realms of science fiction.
+# Hi, I'm Sudharsan 👋
 
+### MSc Computer Science student | Aspiring Data Analyst
 
-<!---
-sudharsan-codex/sudharsan-codex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am building practical, explainable data projects and preparing for data analyst opportunities in the UK.
+
+## What I am working on
+
+- **Bitcoin fraud detection** — graph-based classification with the Elliptic2 dataset, R, Random Forest, Gradient Boosting, Logistic Regression, and SHAP explainability.
+- **Applied machine learning** — strengthening my foundations through coursework and portfolio projects.
+- **Data storytelling** — turning analysis into clear, decision-ready insights.
+
+## Skills I am developing
+
+`R` · `Python` · `SQL` · `Machine Learning` · `Data Analysis` · `SHAP` · `Git` · `Docker` · `Azure`
+
+## Background
+
+- MSc Computer Science and Technology student at Ulster University / QA Higher Education
+- Interested in data analytics, financial crime detection, and explainable machine learning
+- Bringing practical team-leadership and cloud-deployment experience into a data career
+
+## Current goal
+
+Build a strong, evidence-based portfolio for UK data analyst roles.
+
+---
+
+*This profile is actively being rebuilt. New project case studies are coming soon.*
