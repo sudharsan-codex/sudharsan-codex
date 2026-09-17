@@ -1,29 +1,25 @@
-# Hi, I'm Sudharsan 👋
+# Hi, I'm Sudharsan
 
-### MSc Computer Science student | Aspiring Data Analyst
+I'm an MSc Computer Science and Technology student at Ulster University, delivered through QA Higher Education, with expected completion around October 2027. I'm working towards Data Analyst opportunities in the UK.
 
-I am building practical, explainable data projects and preparing for data analyst opportunities in the UK.
+My background in industrial team supervision gives me practical experience of workforce coordination, attendance records and day-to-day operational decisions.
 
-## What I am working on
+## Academic project work
 
-- **Bitcoin fraud detection** — graph-based classification with the Elliptic2 dataset, R, Random Forest, Gradient Boosting, Logistic Regression, and SHAP explainability.
-- **Applied machine learning** — strengthening my foundations through coursework and portfolio projects.
-- **Data storytelling** — turning analysis into clear, decision-ready insights.
+### Bitcoin network analysis with Elliptic2
 
-## Skills I am developing
+I contributed to an academic group project exploring suspicious patterns in Bitcoin network data using R and the CRISP-DM framework. My contribution focused on machine learning modelling and feature importance, with Logistic Regression, Random Forest and Gradient Boosting in the project code.
 
-`R` · `Python` · `SQL` · `Machine Learning` · `Data Analysis` · `SHAP` · `Git` · `Docker` · `Azure`
+The work involved graph-derived features, class imbalance and model evaluation. I am preparing a portfolio case study that clearly explains the methods, my contribution and the limitations of the analysis.
 
-## Background
+### Q-learning grid world
 
-- MSc Computer Science and Technology student at Ulster University / QA Higher Education
-- Interested in data analytics, financial crime detection, and explainable machine learning
-- Bringing practical team-leadership and cloud-deployment experience into a data career
+My Python coursework explores Q-learning in a grid-world environment, including obstacles, a teleport transition, exploration settings and comparisons of learning rates.
 
-## Current goal
+## Next portfolio priorities
 
-Build a strong, evidence-based portfolio for UK data analyst roles.
+- Demonstrate SQL through documented queries and data-quality checks.
+- Build a business reporting project with clear KPI definitions and a dashboard.
+- Develop reproducible data preparation and modelling workflows for junior analytics engineering opportunities.
 
----
-
-*This profile is actively being rebuilt. New project case studies are coming soon.*
+I'm particularly interested in roles where careful analysis and clear communication help teams make better operational decisions.
