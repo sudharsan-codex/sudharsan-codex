@@ -1,25 +1,27 @@
-# Hi, I'm Sudharsan
+# Sudharsan Sankaran
 
-I'm an MSc Computer Science and Technology student at Ulster University, delivered through QA Higher Education, with expected completion around October 2027. I'm working towards Data Analyst opportunities in the UK.
+**MSc Computer Science and Technology student · Working towards UK Data Analyst roles**
 
-My background in industrial team supervision gives me practical experience of workforce coordination, attendance records and day-to-day operational decisions.
+I bring an industrial team supervision background to my growing practice in data. I am studying at Ulster University through QA Higher Education, with expected completion around October 2027.
 
-## Academic project work
+## Selected academic work
 
-### Bitcoin network analysis with Elliptic2
+| Project | My contribution | Tools and methods |
+| --- | --- | --- |
+| Bitcoin fraud detection with Elliptic2 | Group leader; R modelling and feature importance | R, caret, igraph, CRISP-DM; Logistic Regression, Random Forest and Gradient Boosting |
+| Q-learning grid world | Python coursework implementation and experiments | Python, NumPy, Matplotlib |
+| Application deployment support | Azure and Docker deployment support within a collaborative project | Azure, Docker; Java Spring Boot and React application |
 
-I contributed to an academic group project exploring suspicious patterns in Bitcoin network data using R and the CRISP-DM framework. My contribution focused on machine learning modelling and feature importance, with Logistic Regression, Random Forest and Gradient Boosting in the project code.
+The Bitcoin project is academic group work. I describe my own contribution and the evaluation limitations; reported model figures are not independently reproduced production results.
 
-The work involved graph-derived features, class imbalance and model evaluation. I am preparing a portfolio case study that clearly explains the methods, my contribution and the limitations of the analysis.
+## What I bring
 
-### Q-learning grid world
+- Experience of workforce coordination, attendance records and day-to-day industrial team supervision.
+- Academic work in classification, model evaluation and feature importance in R.
+- Python coursework exploring reinforcement learning and experiment visualisation.
 
-My Python coursework explores Q-learning in a grid-world environment, including obstacles, a teleport transition, exploration settings and comparisons of learning rates.
+## Building next
 
-## Next portfolio priorities
+SQL analysis, Power BI reporting and reproducible data workflows are my next portfolio priorities. My primary target is Data Analyst opportunities in the UK, with a parallel interest in junior analytics engineering.
 
-- Demonstrate SQL through documented queries and data-quality checks.
-- Build a business reporting project with clear KPI definitions and a dashboard.
-- Develop reproducible data preparation and modelling workflows for junior analytics engineering opportunities.
-
-I'm particularly interested in roles where careful analysis and clear communication help teams make better operational decisions.
+[Connect on LinkedIn](https://www.linkedin.com/in/sudharsan-sankaran-057523326/)
